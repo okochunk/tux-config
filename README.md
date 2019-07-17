@@ -1,5 +1,5 @@
 # tux-config
-All imperative environtment config. should be use anywhere anyplace in the world with :) rockochunk
+All imperative environtment config data grabbed from jawalabs.comn, should be use anywhere anyplace in the world with :) rockochunk
 
 **bashrc**
 *installation*
